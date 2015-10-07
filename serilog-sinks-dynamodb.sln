@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{35A4D46A-C140-4FE0-B5F1-B05CAA6A9A81}"
 	ProjectSection(SolutionItems) = preProject
@@ -14,11 +14,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.DynamoDB", "src\Serilog.Sinks.DynamoDB\Serilog.Sinks.DynamoDB.csproj", "{7BBF6F99-173E-48F4-915A-02EB65155E05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.DynamoDB.UnitTests", "src\Serilog.Sinks.DynamoDB.UnitTests\Serilog.Sinks.DynamoDB.UnitTests.csproj", "{FB0D1E98-5A50-42A2-9B77-454DD009E15E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9C99ED81-5434-4847-92BD-8C5D64D81C6A}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\packages.config = .nuget\packages.config
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.DynamoDB.Sample", "src\Sample\Serilog.Sinks.DynamoDB.Sample\Serilog.Sinks.DynamoDB.Sample.csproj", "{0B868B20-72F4-42E2-A5C8-B7F389AE0E51}"
 EndProject
